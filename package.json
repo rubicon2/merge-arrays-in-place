@@ -1,6 +1,6 @@
 {
   "name": "merge-arrays-in-place",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Merge two arrays into one with custom element merging logic",
   "main": "index.js",
   "scripts": {
