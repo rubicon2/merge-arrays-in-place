@@ -137,3 +137,6 @@ dist
 
 # Mac OS
 .DS_Store
+
+# Generated typescript declaration files
+*.d.*
